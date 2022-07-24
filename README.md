@@ -24,8 +24,8 @@ N/A
 
 ## Challenge Summary 
 1. Import Ethereum Tranaction Function into the Fintech Finder Application.
-2. Sing and Execute a Payment Transaction. 
-3. Inspect the Transaction on Ganache
+2. Sign and Execute a Payment Transaction. 
+3. Inspect the Transaction on Ganache.
 
 ---
 
